@@ -1,0 +1,6 @@
+{
+  "name": "TrustPass - Digital Ajo & Rotational Savings",
+  "description": "Digitized rotational thrift contributions (Ajo/Esusu) in Nigeria with automated payouts, custom group UIDs, wallet management, and transparent escrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
